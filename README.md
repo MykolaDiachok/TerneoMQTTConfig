@@ -1,0 +1,2 @@
+# TerneoMQTTConfig
+Terneo &amp; MQTT
