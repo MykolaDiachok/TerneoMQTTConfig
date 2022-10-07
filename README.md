@@ -1,2 +1,3 @@
 # TerneoMQTTConfig
 Terneo &amp; MQTT
+I spent a lot of time connecting the Terneo SX to Apple HomeKit, also wrote my driver without success result and came to a more or less stable MQTT. This is my configuration...
